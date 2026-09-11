@@ -1,9 +1,9 @@
 <div align="center">
 
 <!-- Header Banner (Terminal Style) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=200&section=header&text=Kevin%20Pleyer&fontSize=40&fontColor=58a6ff&fontAlignY=35&desc=Statistical%20%26%20Software%20Engineer&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:161b22,100:1f6feb&amp;height=200&amp;section=header&amp;text=Kevin%20Pleyer&amp;fontSize=40&amp;fontColor=58a6ff&amp;fontAlignY=35&amp;desc=Statistical%20%26%20Software%20Engineer&amp;descSize=16&amp;descColor=8b949e&amp;descAlignY=55&amp;animation=fadeIn" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=50&lines=Modelos+Estad%C3%ADsticos;Machine+Learning;Desarrollo+de+Software;Datos+que+no+se+validan%2C+no+existen.)](https://github.com/Prdelta)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=18&amp;duration=3000&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=600&amp;height=50&amp;lines=Modelos+Estad%C3%ADsticos;Machine+Learning;Desarrollo+de+Software;Datos+que+no+se+validan%2C+no+existen.)](https://github.com/Prdelta)
 
 </div>
 
@@ -15,7 +15,7 @@ $ cat profile.txt
 > Estudiante de último año en **Ingeniería Estadística e Informática** (UNAP, Perú). 
 > Ayudante de cátedra e investigador practicante. Trabajo en la intersección del **modelado estadístico, análisis de datos y desarrollo de software**. 
 > 
-> 🎯 **Objetivo:** Construir herramientas de software robustas que conviertan la estadística en soluciones reales y aplicables.
+> `[!]` **Objetivo:** Construir herramientas de software robustas que conviertan la estadística en soluciones reales y aplicables.
 
 <br>
 
@@ -45,12 +45,11 @@ $ cat profile.txt
 
 <div align="center">
 
-<!-- Utilizando un layout más compacto y seguro para evitar links rotos -->
 <a href="https://github.com/Prdelta/odinlab">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prdelta&repo=odinlab&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prdelta&amp;repo=odinlab&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;icon_color=58a6ff&amp;title_color=58a6ff" width="48%" />
 </a>
 <a href="https://github.com/Prdelta/SIGA">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prdelta&repo=SIGA&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prdelta&amp;repo=SIGA&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;icon_color=58a6ff&amp;title_color=58a6ff" width="48%" />
 </a>
 
 </div>
@@ -67,8 +66,8 @@ $ cat profile.txt
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Prdelta&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff&text_color=8b949e" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prdelta&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=Prdelta&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;icon_color=58a6ff&amp;title_color=58a6ff&amp;text_color=8b949e" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prdelta&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=8b949e" height="150" />
 
 </div>
 
@@ -85,5 +84,5 @@ $ cat profile.txt
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:161b22,100:1f6feb&amp;height=100&amp;section=footer" width="100%" />
 </div>
