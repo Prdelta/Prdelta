@@ -33,32 +33,6 @@
         </ul>
       </div>
     </td>
-    <td align="center" width="50%" style="border: none;">
-      <h2><img src="https://api.iconify.design/lucide/terminal.svg?color=%2358a6ff" width="24" align="absmiddle"/> Code Profile</h2>
-      <div align="left">
-
-```python
-class StatisticalEngineer:
-    def __init__(self):
-        self.name   = "Kevin Pleyer"
-        self.lab    = "ODIN Laboratory"
-        self.models = ["SARIMA", "LSTM",
-                       "Ridge", "Lasso"]
-        self.stack  = ["Next.js", "Spring Boot",
-                       "Flask", "React"]
-
-    def validate(self, model):
-        if not model.tested:
-            raise Exception(
-                "Modelo sin validar no existe"
-            )
-        return model.deploy()
-```
-
-</div>
-    </td>
-  </tr>
-</table>
 
 ---
 
@@ -118,26 +92,13 @@ class StatisticalEngineer:
  ESTADÍSTICA & ML                          INGENIERÍA DE SOFTWARE
  ════════════════                          ══════════════════════
 
- Diseño Experimental                       Desarrollo Full-Stack
- ├── DCA, DBCA, Factorial                  ├── Spring Boot, Jakarta EE
- ├── Cuadrado Latino, MANOVA               ├── Laravel, Flask
- └── Tukey HSD, ANCOVA                     ├── React, Next.js
-                                           └── Vercel, Firebase
- Machine Learning
- ├── Supervisado: Ridge, Lasso, KNN        APIs & Datos
- ├── No supervisado: K-Means, DBSCAN       ├── PostgreSQL
- └── Metodologia CRISP-DM                  ├── REST APIs
-                                           └── Dashboards interactivos
- Series Temporales
- ├── SARIMA, ARIMA                         Control de Calidad
- ├── LSTM, MLP (Deep Learning)             ├── Six Sigma, DMAIC
- └── Modelos hibridos                      ├── Control estadistico (SPC)
-                                           └── Cartas p, X/R
- Geoestadistica
- ├── Analisis espacial                     Documentacion
- ├── Clustering geografico                 ├── LaTeX (XeLaTeX)
- └── Datos ambientales                     ├── Articulos cientificos
-                                           └── Produccion academica
+ Diseño Experimental                       Desarrollo Full-Stack 
+
+ Machine Learning                          APIs & Datos
+ 
+ Series Temporales                         Control de Calidad
+
+ Geoestadistica                            Documentacion
 ```
 
 ---
@@ -154,31 +115,6 @@ class StatisticalEngineer:
 
 <a href="https://odinlab-rho.vercel.app/"><img src="https://img.shields.io/badge/Sitio-odinlab--rho.vercel.app-58a6ff?style=flat-square&logo=vercel&logoColor=white" /></a>
 <a href="https://github.com/ODIN-LABORATORY"><img src="https://img.shields.io/badge/GitHub-ODIN--LABORATORY-181717?style=flat-square&logo=github&logoColor=white" /></a>
-
-</div>
-
----
-
-<div align="center">
-  <h2><img src="https://api.iconify.design/lucide/activity.svg?color=%2358a6ff" width="24" align="absmiddle"/> GitHub Stats</h2>
-</div>
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Prdelta&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff&text_color=8b949e&ring_color=1f6feb&include_all_commits=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Prdelta&theme=github-dark-blue&hide_border=true&background=0D1117&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&currStreakNum=e6edf3&sideNums=e6edf3" />
-
-<br><br>
-
-<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prdelta&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Prdelta&bg_color=0d1117&color=8b949e&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true&custom_title=Contribuciones)](https://github.com/Prdelta)
 
 </div>
 
