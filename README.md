@@ -18,21 +18,22 @@
 
 ---
 
-<table align="center" style="border: none;">
-  <tr style="border: none;">
-    <td align="center" width="50%" style="border: none;">
-      <h2><img src="https://api.iconify.design/lucide/user.svg?color=%2358a6ff" width="24" align="absmiddle"/> Sobre M&iacute;</h2>
-      <div align="left">
-        <ul>
-          <li><img src="https://api.iconify.design/lucide/map-pin.svg?color=%2358a6ff" width="16" align="absmiddle"/> Puno, Per&uacute; &middot; 3,800 msnm</li>
-          <li><img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%2358a6ff" width="16" align="absmiddle"/> Ing. Estad&iacute;stica e Inform&aacute;tica &middot; UNAP</li>
-          <li><img src="https://api.iconify.design/lucide/book-open.svg?color=%2358a6ff" width="16" align="absmiddle"/> 10mo semestre (&uacute;ltimo a&ntilde;o)</li>
-          <li><img src="https://api.iconify.design/lucide/briefcase.svg?color=%2358a6ff" width="16" align="absmiddle"/> Ayudante de c&aacute;tedra</li>
-          <li><img src="https://api.iconify.design/lucide/microscope.svg?color=%2358a6ff" width="16" align="absmiddle"/> Investigador en ODIN Laboratory</li>
-          <li><img src="https://api.iconify.design/lucide/target.svg?color=%2358a6ff" width="16" align="absmiddle"/> Data Science &middot; ML &middot; Full Stack</li>
-        </ul>
-      </div>
-    </td>
+<div align="center">
+  <h2><img src="https://api.iconify.design/lucide/user.svg?color=%2358a6ff" width="24" align="absmiddle"/> Sobre M&iacute;</h2>
+</div>
+
+<div align="center">
+  <div align="left" style="display: inline-block;">
+    <ul>
+      <li><img src="https://api.iconify.design/lucide/map-pin.svg?color=%2358a6ff" width="16" align="absmiddle"/> Puno, Per&uacute; &middot; 3,800 msnm</li>
+      <li><img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%2358a6ff" width="16" align="absmiddle"/> Ing. Estad&iacute;stica e Inform&aacute;tica &middot; UNAP</li>
+      <li><img src="https://api.iconify.design/lucide/book-open.svg?color=%2358a6ff" width="16" align="absmiddle"/> 10mo semestre (&uacute;ltimo a&ntilde;o)</li>
+      <li><img src="https://api.iconify.design/lucide/briefcase.svg?color=%2358a6ff" width="16" align="absmiddle"/> Ayudante de c&aacute;tedra</li>
+      <li><img src="https://api.iconify.design/lucide/microscope.svg?color=%2358a6ff" width="16" align="absmiddle"/> Investigador en ODIN Laboratory</li>
+      <li><img src="https://api.iconify.design/lucide/target.svg?color=%2358a6ff" width="16" align="absmiddle"/> Data Science &middot; ML &middot; Full Stack</li>
+    </ul>
+  </div>
+</div>
 
 ---
 
@@ -92,10 +93,10 @@
  ESTADÍSTICA & ML                          INGENIERÍA DE SOFTWARE
  ════════════════                          ══════════════════════
 
- Diseño Experimental                       Desarrollo Full-Stack 
+ Diseño Experimental                       Desarrollo Full-Stack
 
  Machine Learning                          APIs & Datos
- 
+
  Series Temporales                         Control de Calidad
 
  Geoestadistica                            Documentacion
@@ -112,6 +113,8 @@
 <a href="https://odinlab-rho.vercel.app/">
   <img src="https://img.shields.io/badge/ODIN%20LAB-Optimizaci%C3%B3n%2C%20Desarrollo%20e%20Investigaci%C3%B3n-1f6feb?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
+
+<br><br>
 
 <a href="https://odinlab-rho.vercel.app/"><img src="https://img.shields.io/badge/Sitio-odinlab--rho.vercel.app-58a6ff?style=flat-square&logo=vercel&logoColor=white" /></a>
 <a href="https://github.com/ODIN-LABORATORY"><img src="https://img.shields.io/badge/GitHub-ODIN--LABORATORY-181717?style=flat-square&logo=github&logoColor=white" /></a>
