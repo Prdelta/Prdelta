@@ -114,63 +114,31 @@ class StatisticalEngineer:
   <h2><img src="https://api.iconify.design/lucide/bar-chart-3.svg?color=%2358a6ff" width="24" align="absmiddle"/> Expertise</h2>
 </div>
 
-<table align="center" style="border: none;">
-  <tr style="border: none;">
-    <td width="50%" valign="top" style="border: none;">
-      <h3 align="center"><img src="https://api.iconify.design/lucide/brain.svg?color=%2358a6ff" width="20" align="absmiddle"/> Estad&iacute;stica & ML</h3>
-
 ```
-Diseño Experimental
-├── DCA, DBCA, Factorial
-├── Cuadrado Latino, MANOVA
-└── Tukey HSD, ANCOVA
+ ESTADÍSTICA & ML                          INGENIERÍA DE SOFTWARE
+ ════════════════                          ══════════════════════
 
-Machine Learning
-├── Supervisado: Ridge, Lasso, KNN
-├── No supervisado: K-Means, DBSCAN
-└── Metodologia CRISP-DM
-
-Series Temporales
-├── SARIMA, ARIMA
-├── LSTM, MLP (Deep Learning)
-└── Modelos hibridos
-
-Geoestadistica
-├── Analisis espacial
-├── Clustering geografico
-└── Datos ambientales
+ Diseño Experimental                       Desarrollo Full-Stack
+ ├── DCA, DBCA, Factorial                  ├── Spring Boot, Jakarta EE
+ ├── Cuadrado Latino, MANOVA               ├── Laravel, Flask
+ └── Tukey HSD, ANCOVA                     ├── React, Next.js
+                                           └── Vercel, Firebase
+ Machine Learning
+ ├── Supervisado: Ridge, Lasso, KNN        APIs & Datos
+ ├── No supervisado: K-Means, DBSCAN       ├── PostgreSQL
+ └── Metodologia CRISP-DM                  ├── REST APIs
+                                           └── Dashboards interactivos
+ Series Temporales
+ ├── SARIMA, ARIMA                         Control de Calidad
+ ├── LSTM, MLP (Deep Learning)             ├── Six Sigma, DMAIC
+ └── Modelos hibridos                      ├── Control estadistico (SPC)
+                                           └── Cartas p, X/R
+ Geoestadistica
+ ├── Analisis espacial                     Documentacion
+ ├── Clustering geografico                 ├── LaTeX (XeLaTeX)
+ └── Datos ambientales                     ├── Articulos cientificos
+                                           └── Produccion academica
 ```
-
-</td>
-    <td width="50%" valign="top" style="border: none;">
-      <h3 align="center"><img src="https://api.iconify.design/lucide/monitor.svg?color=%2358a6ff" width="20" align="absmiddle"/> Ingenier&iacute;a de Software</h3>
-
-```
-Desarrollo Full-Stack
-├── Spring Boot, Jakarta EE
-├── Laravel, Flask
-├── React, Next.js
-└── Vercel, Firebase
-
-APIs & Datos
-├── PostgreSQL
-├── REST APIs
-└── Dashboards interactivos
-
-Control de Calidad
-├── Six Sigma, DMAIC
-├── Control estadistico (SPC)
-└── Cartas p, X/R
-
-Documentacion
-├── LaTeX (XeLaTeX)
-├── Articulos cientificos
-└── Produccion academica
-```
-
-</td>
-  </tr>
-</table>
 
 ---
 
@@ -183,23 +151,6 @@ Documentacion
 <a href="https://odinlab-rho.vercel.app/">
   <img src="https://img.shields.io/badge/ODIN%20LAB-Optimizaci%C3%B3n%2C%20Desarrollo%20e%20Investigaci%C3%B3n-1f6feb?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-
-```
-ODIN LABORATORY — FINESI, Universidad Nacional del Altiplano
-────────────────────────────────────────────────────────────
-
-Plataforma web del laboratorio de investigación.
-Ciencia de datos, ingeniería de software y algoritmia
-competitiva desde el Altiplano peruano.
-
-Stack    Next.js · TypeScript · Vercel
-Areas    Data Science | Software | Algoritmia | Ciberseguridad
-
-├── 19+ Investigadores activos
-├── 157  Producciones intelectuales
-├── 48   Software y patentes registradas (INDECOPI)
-└── Web  https://odinlab-rho.vercel.app
-```
 
 <a href="https://odinlab-rho.vercel.app/"><img src="https://img.shields.io/badge/Sitio-odinlab--rho.vercel.app-58a6ff?style=flat-square&logo=vercel&logoColor=white" /></a>
 <a href="https://github.com/ODIN-LABORATORY"><img src="https://img.shields.io/badge/GitHub-ODIN--LABORATORY-181717?style=flat-square&logo=github&logoColor=white" /></a>
