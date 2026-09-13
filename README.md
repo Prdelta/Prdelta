@@ -1,14 +1,11 @@
 <div align="center">
 
-<!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=230&section=header&text=Kevin%20Pleyer&fontSize=50&fontColor=58a6ff&fontAlignY=32&desc=Statistical%20%26%20Software%20Engineer&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:161b22,100:1f6feb&amp;height=230&amp;section=header&amp;text=Kevin%20Pleyer&amp;fontSize=50&amp;fontColor=58a6ff&amp;fontAlignY=32&amp;desc=Statistical%20%26%20Software%20Engineer&amp;descSize=18&amp;descColor=8b949e&amp;descAlignY=55&amp;animation=fadeIn" width="100%" />
 
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&repeat=true&width=650&height=70&lines=%F0%9F%93%8A+Modelos+Estad%C3%ADsticos+%26+Machine+Learning;%F0%9F%92%BB+Full-Stack+Development;%F0%9F%8C%8D+Geoestad%C3%ADstica+%26+An%C3%A1lisis+Espacial;%F0%9F%94%AC+Datos+que+no+se+validan%2C+no+existen.)](https://github.com/Prdelta)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&repeat=true&width=650&height=70&lines=Modelos+Estad%C3%ADsticos+%7C+Machine+Learning;Full-Stack+Development+%7C+Data+Science;Geoestad%C3%ADstica+%7C+An%C3%A1lisis+Espacial;Datos+que+no+se+validan%2C+no+existen.)](https://github.com/Prdelta)
 
 <br>
 
-<!-- Profile Badges -->
 ![Profile Views](https://komarev.com/ghpvc/?username=Prdelta&color=1f6feb&style=for-the-badge&label=PROFILE+VIEWS)
 &nbsp;
 ![Followers](https://img.shields.io/github/followers/Prdelta?style=for-the-badge&color=1f6feb&labelColor=0d1117&logo=github)
@@ -19,13 +16,11 @@
 
 <br>
 
-<!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br>
 
-<!-- About -->
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;Sobre mí
+## `> whoami`
 
 ```yaml
 nombre: Kevin Pleyer Portillo Machaca
@@ -45,53 +40,50 @@ enfoque:
 
 <br>
 
-<!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br>
 
-<!-- Tech Stack -->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> &nbsp;Tech Stack
+## `> tech_stack`
 
 <div align="center">
 
-### Lenguajes
+### `lenguajes`
+
 <p>
-  <img src="https://skillicons.dev/icons?i=python,r,java,typescript,javascript&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,r,java,typescript,javascript&amp;theme=dark" />
 </p>
 
-### Data Science & ML
+### `data_science`
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![Statsmodels](https://img.shields.io/badge/Statsmodels-4B8BBE?style=for-the-badge)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-444876?style=for-the-badge)
+
+### `frameworks`
+
 <p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/Statsmodels-4B8BBE?style=flat-square" height="28"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" height="28"/>
-  <img src="https://img.shields.io/badge/Seaborn-444876?style=flat-square" height="28"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" height="28"/>
+  <img src="https://skillicons.dev/icons?i=spring,laravel,flask,react,nextjs,vite&amp;theme=dark" />
 </p>
 
-### Frameworks & Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,laravel,flask,react,nextjs&theme=dark" />
-</p>
+### `infraestructura`
 
-### Bases de Datos & Herramientas
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,firebase,git,docker,latex&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=postgres,firebase,vercel,docker,git,latex&amp;theme=dark" />
 </p>
 
 </div>
 
 <br>
 
-<!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br>
 
-<!-- Expertise -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;Áreas de Expertise
+## `> areas_de_expertise`
 
 <div align="center">
 
@@ -99,7 +91,7 @@ enfoque:
 <tr>
 <td width="50%" valign="top">
 
-### 📊 Estadística & ML
+### `estadistica_y_ml`
 ```
 Diseño Experimental
 ├── DCA, DBCA, Factorial
@@ -120,12 +112,13 @@ Series Temporales
 </td>
 <td width="50%" valign="top">
 
-### 💻 Ingeniería de Software
+### `ingenieria_de_software`
 ```
 Desarrollo Full-Stack
 ├── Spring Boot, Jakarta EE
 ├── Laravel, Flask
-└── React, HTML/CSS/JS
+├── React, Next.js
+└── Vercel, Firebase
 
 Datos & Infraestructura
 ├── PostgreSQL, Firebase
@@ -146,82 +139,31 @@ Calidad & Procesos
 
 <br>
 
-<!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br>
 
-<!-- Projects -->
-## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"> &nbsp;Proyectos Destacados
+## `> github_stats`
 
 <div align="center">
 
-<a href="https://github.com/Prdelta/dashboard-ml">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prdelta&repo=dashboard-ml&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff&text_color=8b949e" width="48%" />
-</a>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Prdelta&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;icon_color=58a6ff&amp;title_color=58a6ff&amp;text_color=8b949e&amp;ring_color=1f6feb&amp;include_all_commits=true&amp;count_private=true" />
 &nbsp;
-<a href="https://github.com/Prdelta/proyecto_egresados_une">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prdelta&repo=proyecto_egresados_une&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff&text_color=8b949e" width="48%" />
-</a>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Prdelta&amp;theme=github-dark-blue&amp;hide_border=true&amp;background=0D1117&amp;ring=1f6feb&amp;fire=58a6ff&amp;currStreakLabel=58a6ff&amp;sideLabels=8b949e&amp;dates=8b949e&amp;currStreakNum=e6edf3&amp;sideNums=e6edf3" />
 
 <br><br>
 
-<a href="https://github.com/Prdelta/estadsitica_espacial">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prdelta&repo=estadsitica_espacial&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff&text_color=8b949e" width="48%" />
-</a>
-&nbsp;
-<a href="https://github.com/Prdelta/turiscovery">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prdelta&repo=turiscovery&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff&text_color=8b949e" width="48%" />
-</a>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prdelta&amp;layout=donut&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=8b949e&amp;langs_count=8" />
 
 </div>
 
 <br>
 
-<div align="center">
-
-| Proyecto | Stack | Descripción |
-|:---------|:-----:|:------------|
-| [**mi-proyecto-firebase**](https://github.com/Prdelta/mi-proyecto-firebase) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | Proyecto integrado con Firebase Studio |
-| [**comp_paralela**](https://github.com/Prdelta/comp_paralela) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | Computación paralela y concurrente |
-| [**mari**](https://github.com/Prdelta/mari) | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) | Proyecto web frontend |
-
-</div>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Prdelta&bg_color=0d1117&color=8b949e&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true&custom_title=Contribuciones)](https://github.com/Prdelta)
 
 <br>
 
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br>
-
-<!-- GitHub Stats -->
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ris/giphy.gif" width="30"> &nbsp;GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Prdelta&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff&text_color=8b949e&ring_color=1f6feb&include_all_commits=true&count_private=true" />
-&nbsp;
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Prdelta&theme=github-dark-blue&hide_border=true&background=0D1117&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&currStreakNum=e6edf3&sideNums=e6edf3" />
-
-<br><br>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prdelta&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" />
-
-</div>
-
-<br>
-
-<!-- Activity Graph -->
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Prdelta&bg_color=0d1117&color=8b949e&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true&custom_title=Contribuciones%20en%20el%20%C3%BAltimo%20a%C3%B1o)](https://github.com/Prdelta)
-
-</div>
-
-<br>
-
-<!-- Snake Animation -->
+<!-- Snake: funciona despues de configurar el GitHub Action -->
 <div align="center">
 
 <picture>
@@ -234,39 +176,26 @@ Calidad & Procesos
 
 <br>
 
-<!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br>
 
-<!-- Contact -->
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> &nbsp;Contacto
+## `> contacto`
 
 <div align="center">
 
-<a href="mailto:pleyer980m@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-pleyer980m@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+[![Email](https://img.shields.io/badge/Gmail-pleyer980m@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pleyer980m@gmail.com)
 &nbsp;
-<a href="https://orcid.org/0009-0008-8442-8915">
-  <img src="https://img.shields.io/badge/ORCID-0009--0008--8442--8915-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />
-</a>
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0008--8442--8915-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-8442-8915)
 &nbsp;
-<a href="https://github.com/Prdelta">
-  <img src="https://img.shields.io/badge/GitHub-Prdelta-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br><br>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="70%" />
+[![GitHub](https://img.shields.io/badge/GitHub-Prdelta-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prdelta)
 
 </div>
 
 <br>
 
-<!-- Footer -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:161b22,100:1f6feb&amp;height=120&amp;section=footer" width="100%" />
 
 </div>

@@ -1,0 +1,30 @@
+# .github/workflows/snake.yml
+# Este archivo va en tu repo Prdelta (el del profile README)
+# Ruta exacta: Prdelta/.github/workflows/snake.yml
+
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # se ejecuta todos los dias a medianoche UTC
+  workflow_dispatch: # permite ejecutarlo manualmente desde GitHub
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate snake animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Prdelta
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
